@@ -1,0 +1,6 @@
+[package]
+name = "mecab"
+description="MeCab binding for Rust"
+version = "0.1.0"
+authors = ["Hideaki Takahashi <mymelo@gmail.com>"]
+license="GPL/LGPL/BSD-3-Clause"
